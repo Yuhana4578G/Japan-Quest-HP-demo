@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "services": "Dịch vụ",
+    "articles": "Bài viết",
+    "videos": "Video",
+    "bookNow": "Đặt ngay",
+    "language": "Ngôn ngữ"
+  },
+  "hero": {
+    "badge": "Đại lý du lịch có giấy phép • Đặt tại Nhật Bản",
+    "title": "Chuyến đi Nhật Bản của bạn,",
+    "titleHighlight": "Được đảm bảo.",
+    "subtitle": "Lên kế hoạch và hướng dẫn du lịch Nhật Bản bởi các đại lý du lịch có giấy phép — để gia đình bạn chỉ tập trung tạo kỷ niệm.",
+    "ctaBook": "Đặt dịch vụ hướng dẫn viên địa phương →",
+    "ctaYoutube": "Xem kênh YouTube của chúng tôi"
+  },
+  "trust": {
+    "views": "Hơn 153.000 lượt xem",
+    "subscribers": "Hơn 1.600 người đăng ký",
+    "agents": "Đại lý du lịch có giấy phép",
+    "based": "Đặt tại Nhật Bản"
+  },
+  "strengths": {
+    "title": "Tại sao chọn Japan Quest?",
+    "item1Title": "Đại lý du lịch có giấy phép",
+    "item1Desc": "Khác với influencer, chúng tôi là chuyên gia được chứng nhận với kiến thức ngành thực sự.",
+    "item2Title": "Điểm ẩn dành cho gia đình",
+    "item2Desc": "Những địa điểm mà các gia đình thực sự yêu thích — xa khỏi đám đông du khách thông thường.",
+    "item3Title": "Tối ưu chi phí và thời gian",
+    "item3Desc": "Mẹo độc quyền từ đại lý để tiết kiệm tiền giao thông, đổi ngoại tệ và nhiều hơn nữa."
+  },
+  "videos": {
+    "title": "Mới nhất từ YouTube",
+    "subtitle": "Nhật Bản thực. Mẹo thực. Không lan man.",
+    "seeAll": "Xem tất cả video →"
+  },
+  "services": {
+    "title": "Chúng tôi có thể giúp gì",
+    "subtitle": "Từ lên kế hoạch đến hướng dẫn trực tiếp — chúng tôi lo trọn vẹn chuyến đi của bạn.",
+    "learnMore": "Tìm hiểu thêm →",
+    "cta": "Kiểm tra lịch trống và đặt →",
+    "s1Title": "Dịch vụ hướng dẫn viên địa phương",
+    "s1Desc": "Chúng tôi đồng hành cùng gia đình bạn — dẫn đường, phiên dịch và đảm bảo mỗi khoảnh khắc đáng nhớ.",
+    "s2Title": "Lập lịch trình tùy chỉnh",
+    "s2Desc": "Kế hoạch du lịch hàng ngày hoàn toàn cá nhân hóa theo nhịp độ, sở thích và ngân sách của gia đình bạn.",
+    "s3Title": "Tư vấn trước chuyến đi",
+    "s3Desc": "Cuộc gọi video 45 phút để xem lại lịch trình và trả lời mọi câu hỏi về Nhật Bản."
+  },
+  "testimonials": {
+    "title": "Khách hàng nói gì về chúng tôi"
+  },
+  "finalCta": {
+    "title": "Sẵn sàng bắt đầu chuyến đi Nhật Bản được đảm bảo chưa?",
+    "subtitle": "Chỗ hết nhanh vào mùa cao điểm. Đặt sớm thôi.",
+    "button": "Đặt ngay →"
+  },
+  "footer": {
+    "tagline": "Đại lý du lịch có giấy phép tại Nhật Bản.\nChuyến đi Nhật Bản của bạn, được đảm bảo.",
+    "navigation": "Điều hướng",
+    "follow": "Theo dõi chúng tôi",
+    "copyright": "© 2025 Japan Quest. Bản quyền thuộc về Japan Quest.",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản dịch vụ"
+  }
+}

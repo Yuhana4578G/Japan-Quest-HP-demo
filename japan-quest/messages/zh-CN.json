@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "服务",
+    "articles": "文章",
+    "videos": "视频",
+    "bookNow": "立即预订",
+    "language": "语言"
+  },
+  "hero": {
+    "badge": "持牌旅行社 • 常驻日本",
+    "title": "您的日本之旅，",
+    "titleHighlight": "有保障。",
+    "subtitle": "由持牌旅行社为您规划并全程陪同的日本之旅 — 让您的家人专注于创造美好回忆。",
+    "ctaBook": "预订本地随行服务 →",
+    "ctaYoutube": "观看我们的YouTube频道"
+  },
+  "trust": {
+    "views": "153,000+ 次播放",
+    "subscribers": "1,600+ 订阅者",
+    "agents": "持牌旅行社",
+    "based": "常驻日本"
+  },
+  "strengths": {
+    "title": "为什么选择 Japan Quest？",
+    "item1Title": "持牌旅行社",
+    "item1Desc": "与网红不同，我们是拥有真实行业知识和内部资源的专业认证人士。",
+    "item2Title": "适合家庭的隐藏胜地",
+    "item2Desc": "家人真正喜爱的目的地 — 远离Instagram上的拥挤景点。",
+    "item3Title": "优化成本与时间",
+    "item3Desc": "旅行社独家省钱攻略，涵盖交通、换汇等方方面面。"
+  },
+  "videos": {
+    "title": "YouTube 最新视频",
+    "subtitle": "真实日本。真实攻略。直截了当。",
+    "seeAll": "查看全部视频 →"
+  },
+  "services": {
+    "title": "我们能为您做什么",
+    "subtitle": "从行程规划到现场陪同 — 全程无忧。",
+    "learnMore": "了解更多 →",
+    "cta": "查看空档并预订 →",
+    "s1Title": "本地随行服务",
+    "s1Desc": "我们亲身陪同您的家人 — 向导、翻译，让每一刻都难忘。",
+    "s2Title": "定制行程规划",
+    "s2Desc": "完全个性化的每日行程，根据您家庭的节奏、兴趣和预算量身打造。",
+    "s3Title": "出发前咨询",
+    "s3Desc": "45分钟视频通话，审查您的行程并解答所有关于日本的问题。"
+  },
+  "testimonials": {
+    "title": "宾客怎么说"
+  },
+  "finalCta": {
+    "title": "准备好开始您有保障的日本之旅了吗？",
+    "subtitle": "旺季名额抢手，请尽早预订。",
+    "button": "立即预订 →"
+  },
+  "footer": {
+    "tagline": "常驻日本的持牌旅行社。\n您的日本之旅，有保障。",
+    "navigation": "导航",
+    "follow": "关注我们",
+    "copyright": "© 2025 Japan Quest. 版权所有。",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  }
+}

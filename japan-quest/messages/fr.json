@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "articles": "Articles",
+    "videos": "Vidéos",
+    "bookNow": "Réserver",
+    "language": "Langue"
+  },
+  "hero": {
+    "badge": "Agents de voyage agréés • Basés au Japon",
+    "title": "Votre voyage au Japon,",
+    "titleHighlight": "Garanti.",
+    "subtitle": "Voyage au Japon planifié et guidé par des agents agréés — pour que votre famille ne pense qu'aux souvenirs.",
+    "ctaBook": "Réserver notre service d'accompagnateur local →",
+    "ctaYoutube": "Voir notre chaîne YouTube"
+  },
+  "trust": {
+    "views": "153 000+ vues",
+    "subscribers": "1 600+ abonnés",
+    "agents": "Agents de voyage agréés",
+    "based": "Basés au Japon"
+  },
+  "strengths": {
+    "title": "Pourquoi Japan Quest ?",
+    "item1Title": "Agents de voyage agréés",
+    "item1Desc": "Contrairement aux influenceurs, nous sommes des professionnels certifiés avec une vraie expertise.",
+    "item2Title": "Trésors cachés pour les familles",
+    "item2Desc": "Des endroits que les familles adorent vraiment — loin des foules Instagram.",
+    "item3Title": "Optimisation coût et temps",
+    "item3Desc": "Astuces exclusives d'agents pour économiser sur les transports, le change et bien plus."
+  },
+  "videos": {
+    "title": "Dernières vidéos YouTube",
+    "subtitle": "Le vrai Japon. De vrais conseils. Sans remplissage.",
+    "seeAll": "Voir toutes les vidéos →"
+  },
+  "services": {
+    "title": "Comment nous pouvons vous aider",
+    "subtitle": "De la planification à l'accompagnement sur place — nous couvrons tout votre voyage.",
+    "learnMore": "En savoir plus →",
+    "cta": "Vérifier les disponibilités et réserver →",
+    "s1Title": "Service d'accompagnateur local",
+    "s1Desc": "Nous rejoignons votre famille en personne — guidant, traduisant et rendant chaque instant mémorable.",
+    "s2Title": "Planification d'itinéraire personnalisé",
+    "s2Desc": "Un plan de voyage quotidien entièrement personnalisé selon le rythme, les intérêts et le budget de votre famille.",
+    "s3Title": "Consultation avant le voyage",
+    "s3Desc": "Appel vidéo de 45 minutes pour revoir votre itinéraire et répondre à toutes vos questions sur le Japon."
+  },
+  "testimonials": {
+    "title": "Ce que disent nos voyageurs"
+  },
+  "finalCta": {
+    "title": "Prêt à arrêter de tâtonner et à commencer votre voyage garanti au Japon ?",
+    "subtitle": "Les places partent vite en haute saison. Réservez tôt.",
+    "button": "Réserver maintenant →"
+  },
+  "footer": {
+    "tagline": "Agents de voyage agréés basés au Japon.\nVotre voyage au Japon, garanti.",
+    "navigation": "Navigation",
+    "follow": "Suivez-nous",
+    "copyright": "© 2025 Japan Quest. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  }
+}

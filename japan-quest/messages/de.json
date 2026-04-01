@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "articles": "Artikel",
+    "videos": "Videos",
+    "bookNow": "Jetzt buchen",
+    "language": "Sprache"
+  },
+  "hero": {
+    "badge": "Lizenzierte Reisebüros • In Japan ansässig",
+    "title": "Ihre Japan-Reise,",
+    "titleHighlight": "Garantiert.",
+    "subtitle": "Japan-Reisen geplant und begleitet von lizenzierten Reisebüros — damit sich Ihre Familie ganz auf die Erinnerungen konzentrieren kann.",
+    "ctaBook": "Lokalen Begleitservice buchen →",
+    "ctaYoutube": "Unseren YouTube-Kanal ansehen"
+  },
+  "trust": {
+    "views": "153.000+ Aufrufe",
+    "subscribers": "1.600+ Abonnenten",
+    "agents": "Lizenzierte Reisebüros",
+    "based": "In Japan ansässig"
+  },
+  "strengths": {
+    "title": "Warum Japan Quest?",
+    "item1Title": "Lizenzierte Reisebüros",
+    "item1Desc": "Im Gegensatz zu Influencern sind wir zertifizierte Fachleute mit echtem Branchenwissen.",
+    "item2Title": "Geheimtipps für Familien",
+    "item2Desc": "Orte, die Familien wirklich lieben — abseits der Instagram-Touristenmassen.",
+    "item3Title": "Kosten & Zeit optimiert",
+    "item3Desc": "Exklusive Tipps von Reiseprofis zum Sparen bei Transport, Währungswechsel und mehr."
+  },
+  "videos": {
+    "title": "Neu auf YouTube",
+    "subtitle": "Echtes Japan. Echte Tipps. Kein Füllmaterial.",
+    "seeAll": "Alle Videos ansehen →"
+  },
+  "services": {
+    "title": "Wie wir helfen können",
+    "subtitle": "Von der Planung bis zur persönlichen Begleitung — wir decken Ihre gesamte Reise ab.",
+    "learnMore": "Mehr erfahren →",
+    "cta": "Verfügbarkeit prüfen und buchen →",
+    "s1Title": "Lokaler Begleitservice",
+    "s1Desc": "Wir begleiten Ihre Familie persönlich — führen, übersetzen und gestalten jeden Moment unvergesslich.",
+    "s2Title": "Individuelle Reiseroute",
+    "s2Desc": "Ein vollständig personalisierter Tagesplan, der auf das Tempo, die Interessen und das Budget Ihrer Familie abgestimmt ist.",
+    "s3Title": "Vorab-Beratung",
+    "s3Desc": "45-minütiger Video-Call zur Überprüfung Ihrer Reiseroute und Beantwortung aller Fragen zu Japan."
+  },
+  "testimonials": {
+    "title": "Was unsere Gäste sagen"
+  },
+  "finalCta": {
+    "title": "Bereit, das Rätselraten zu beenden und Ihre garantierte Japan-Reise zu beginnen?",
+    "subtitle": "Plätze sind in der Hauptreisezeit schnell vergeben. Frühzeitig buchen.",
+    "button": "Jetzt buchen →"
+  },
+  "footer": {
+    "tagline": "Lizenzierte Reisebüros in Japan.\nIhre Japan-Reise, garantiert.",
+    "navigation": "Navigation",
+    "follow": "Folgen Sie uns",
+    "copyright": "© 2025 Japan Quest. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen"
+  }
+}

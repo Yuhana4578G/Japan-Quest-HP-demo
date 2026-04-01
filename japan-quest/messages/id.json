@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "services": "Layanan",
+    "articles": "Artikel",
+    "videos": "Video",
+    "bookNow": "Pesan Sekarang",
+    "language": "Bahasa"
+  },
+  "hero": {
+    "badge": "Agen Perjalanan Berlisensi • Berbasis di Jepang",
+    "title": "Perjalanan Jepang Anda,",
+    "titleHighlight": "Terjamin.",
+    "subtitle": "Perencanaan dan panduan perjalanan Jepang oleh agen perjalanan berlisensi — agar keluarga Anda bisa fokus menciptakan kenangan.",
+    "ctaBook": "Pesan Layanan Pendamping Lokal →",
+    "ctaYoutube": "Tonton Saluran YouTube Kami"
+  },
+  "trust": {
+    "views": "153.000+ Penayangan",
+    "subscribers": "1.600+ Pelanggan",
+    "agents": "Agen Perjalanan Berlisensi",
+    "based": "Berbasis di Jepang"
+  },
+  "strengths": {
+    "title": "Mengapa Japan Quest?",
+    "item1Title": "Agen Perjalanan Berlisensi",
+    "item1Desc": "Berbeda dari influencer, kami adalah profesional bersertifikat dengan pengetahuan industri nyata.",
+    "item2Title": "Tempat Tersembunyi untuk Keluarga",
+    "item2Desc": "Destinasi yang benar-benar dicintai keluarga — jauh dari kerumunan wisatawan biasa.",
+    "item3Title": "Hemat Biaya & Waktu",
+    "item3Desc": "Tips eksklusif agen perjalanan untuk menghemat transportasi, penukaran mata uang, dan lainnya."
+  },
+  "videos": {
+    "title": "Terbaru dari YouTube",
+    "subtitle": "Jepang nyata. Tips nyata. Tanpa basa-basi.",
+    "seeAll": "Lihat Semua Video →"
+  },
+  "services": {
+    "title": "Bagaimana Kami Bisa Membantu",
+    "subtitle": "Dari perencanaan hingga panduan langsung — kami siap mendampingi perjalanan Anda.",
+    "learnMore": "Pelajari Lebih Lanjut →",
+    "cta": "Cek Ketersediaan & Pesan →",
+    "s1Title": "Layanan Pendamping Lokal",
+    "s1Desc": "Kami mendampingi keluarga Anda secara langsung — memandu, menerjemahkan, dan memastikan setiap momen berharga.",
+    "s2Title": "Perencanaan Itinerari Khusus",
+    "s2Desc": "Rencana perjalanan harian yang disesuaikan dengan ritme, minat, dan anggaran keluarga Anda.",
+    "s3Title": "Konsultasi Pra-Perjalanan",
+    "s3Desc": "Panggilan video 45 menit untuk meninjau itinerari dan menjawab semua pertanyaan tentang Jepang."
+  },
+  "testimonials": {
+    "title": "Apa Kata Tamu Kami"
+  },
+  "finalCta": {
+    "title": "Siap Memulai Perjalanan Jepang yang Terjamin?",
+    "subtitle": "Tempat cepat penuh di musim ramai. Pesan lebih awal.",
+    "button": "Pesan Sekarang →"
+  },
+  "footer": {
+    "tagline": "Agen perjalanan berlisensi berbasis di Jepang.\nPerjalanan Jepang Anda, terjamin.",
+    "navigation": "Navigasi",
+    "follow": "Ikuti Kami",
+    "copyright": "© 2025 Japan Quest. Semua hak dilindungi.",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Syarat Layanan"
+  }
+}

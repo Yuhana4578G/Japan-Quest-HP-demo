@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "articles": "Artículos",
+    "videos": "Videos",
+    "bookNow": "Reservar Ahora",
+    "language": "Idioma"
+  },
+  "hero": {
+    "badge": "Agentes de viaje certificados • Con base en Japón",
+    "title": "Tu viaje a Japón,",
+    "titleHighlight": "Garantizado.",
+    "subtitle": "Planificación y guía de viajes por Japón a cargo de agentes certificados — para que tu familia solo piense en los recuerdos.",
+    "ctaBook": "Reservar Servicio de Acompañante Local →",
+    "ctaYoutube": "Ver Nuestro Canal de YouTube"
+  },
+  "trust": {
+    "views": "153,000+ Visualizaciones",
+    "subscribers": "1,600+ Suscriptores",
+    "agents": "Agentes de Viaje Certificados",
+    "based": "Con Base en Japón"
+  },
+  "strengths": {
+    "title": "¿Por qué Japan Quest?",
+    "item1Title": "Agentes de Viaje Certificados",
+    "item1Desc": "A diferencia de los influencers, somos profesionales certificados con conocimiento real del sector.",
+    "item2Title": "Lugares Ocultos para Familias",
+    "item2Desc": "Destinos que las familias realmente aman — lejos de las multitudes de Instagram.",
+    "item3Title": "Optimización de Costo y Tiempo",
+    "item3Desc": "Consejos exclusivos de agentes para ahorrar en transporte, cambio de divisas y mucho más."
+  },
+  "videos": {
+    "title": "Lo Último de YouTube",
+    "subtitle": "Japón real. Consejos reales. Sin relleno.",
+    "seeAll": "Ver Todos los Videos →"
+  },
+  "services": {
+    "title": "Cómo Podemos Ayudarte",
+    "subtitle": "Desde la planificación hasta la guía en persona — cubrimos todo tu viaje.",
+    "learnMore": "Saber Más →",
+    "cta": "Ver Disponibilidad y Reservar →",
+    "s1Title": "Servicio de Acompañante Local",
+    "s1Desc": "Nos unimos a tu familia en persona — guiando, traduciendo y haciendo que cada momento cuente.",
+    "s2Title": "Planificación de Itinerario Personalizado",
+    "s2Desc": "Un plan de viaje diario totalmente personalizado según el ritmo, intereses y presupuesto de tu familia.",
+    "s3Title": "Consulta Previa al Viaje",
+    "s3Desc": "Videollamada de 45 minutos para revisar tu itinerario y responder todas tus preguntas sobre Japón."
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Huéspedes"
+  },
+  "finalCta": {
+    "title": "¿Listo para Dejar de Adivinar y Comenzar tu Viaje Garantizado a Japón?",
+    "subtitle": "Los cupos se llenan rápido en temporada alta. Reserva con anticipación.",
+    "button": "Reservar Ahora →"
+  },
+  "footer": {
+    "tagline": "Agentes de viaje certificados con base en Japón.\nTu viaje a Japón, garantizado.",
+    "navigation": "Navegación",
+    "follow": "Síguenos",
+    "copyright": "© 2025 Japan Quest. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}

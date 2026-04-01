@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "articles": "Articles",
+    "videos": "Videos",
+    "bookNow": "Book Now",
+    "language": "Language"
+  },
+  "hero": {
+    "badge": "Licensed Travel Agents • Based in Japan",
+    "title": "Your Japan Trip,",
+    "titleHighlight": "Guaranteed.",
+    "subtitle": "Japan travel planned and guided by licensed travel agents — so your family can focus on the memories.",
+    "ctaBook": "Book Our Local Attendant Service →",
+    "ctaYoutube": "Watch Our YouTube Channel"
+  },
+  "trust": {
+    "views": "153,000+ Views",
+    "subscribers": "1,600+ Subscribers",
+    "agents": "Licensed Travel Agents",
+    "based": "Based in Japan"
+  },
+  "strengths": {
+    "title": "Why Japan Quest?",
+    "item1Title": "Licensed Travel Agents",
+    "item1Desc": "Unlike influencers, we're certified professionals with real industry knowledge and insider access.",
+    "item2Title": "Hidden Gems for Families",
+    "item2Desc": "Off-the-beaten-path spots that families actually love — not just Instagram crowds.",
+    "item3Title": "Cost & Time Optimized",
+    "item3Desc": "Travel agent-exclusive tips to save money on transport, currency exchange, and more."
+  },
+  "videos": {
+    "title": "Latest from YouTube",
+    "subtitle": "Real Japan. Real tips. No fluff.",
+    "seeAll": "See All Videos →"
+  },
+  "services": {
+    "title": "How We Can Help",
+    "subtitle": "From planning to in-person guidance — we've got your trip covered.",
+    "learnMore": "Learn More →",
+    "cta": "Check Availability & Book →",
+    "s1Title": "Local Attendant Service",
+    "s1Desc": "We join your family in person — guiding, translating, and making every moment count.",
+    "s2Title": "Custom Itinerary Planning",
+    "s2Desc": "A fully personalized travel plan built around your family's pace, interests, and budget.",
+    "s3Title": "Pre-Trip Consultation",
+    "s3Desc": "45-minute video call to review your itinerary and answer all your Japan questions."
+  },
+  "testimonials": {
+    "title": "What Our Guests Say"
+  },
+  "finalCta": {
+    "title": "Ready to Stop Guessing and Start Your Guaranteed Japan Trip?",
+    "subtitle": "Spots fill up fast during peak seasons. Book early.",
+    "button": "Book Now →"
+  },
+  "footer": {
+    "tagline": "Licensed travel agents based in Japan.\nYour Japan trip, guaranteed.",
+    "navigation": "Navigation",
+    "follow": "Follow Us",
+    "copyright": "© 2025 Japan Quest. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

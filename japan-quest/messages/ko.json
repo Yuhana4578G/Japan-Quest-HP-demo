@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "홈",
+    "about": "소개",
+    "services": "서비스",
+    "articles": "아티클",
+    "videos": "영상",
+    "bookNow": "지금 예약",
+    "language": "언어"
+  },
+  "hero": {
+    "badge": "공인 여행사 • 일본 현지 운영",
+    "title": "당신의 일본 여행,",
+    "titleHighlight": "보장됩니다.",
+    "subtitle": "공인 여행사가 계획하고 직접 안내하는 일본 여행 — 가족이 추억 만들기에만 집중할 수 있도록.",
+    "ctaBook": "현지 어텐던트 서비스 예약 →",
+    "ctaYoutube": "YouTube 채널 보기"
+  },
+  "trust": {
+    "views": "153,000+ 조회수",
+    "subscribers": "1,600+ 구독자",
+    "agents": "공인 여행사",
+    "based": "일본 현지 운영"
+  },
+  "strengths": {
+    "title": "왜 Japan Quest인가요?",
+    "item1Title": "공인 여행사",
+    "item1Desc": "인플루언서와 달리, 저희는 실제 업계 지식과 내부 정보를 갖춘 자격증 전문가입니다.",
+    "item2Title": "가족을 위한 숨겨진 명소",
+    "item2Desc": "가족이 진심으로 좋아하는 장소 — 인스타그램 인파에서 벗어난 곳.",
+    "item3Title": "비용 & 시간 최적화",
+    "item3Desc": "교통, 환전 등에서 절약할 수 있는 여행사 전용 팁."
+  },
+  "videos": {
+    "title": "YouTube 최신 영상",
+    "subtitle": "진짜 일본. 진짜 팁. 군더더기 없이.",
+    "seeAll": "모든 영상 보기 →"
+  },
+  "services": {
+    "title": "저희가 도울 수 있는 것",
+    "subtitle": "계획부터 현장 안내까지 — 여행 전반을 책임집니다.",
+    "learnMore": "더 알아보기 →",
+    "cta": "예약 가능 일정 확인 →",
+    "s1Title": "현지 어텐던트 서비스",
+    "s1Desc": "저희가 직접 가족과 함께합니다 — 안내, 통역, 잊지 못할 순간 만들기.",
+    "s2Title": "맞춤 일정 기획",
+    "s2Desc": "가족의 페이스, 관심사, 예산에 맞게 완전 개인화된 일별 여행 계획.",
+    "s3Title": "출발 전 상담",
+    "s3Desc": "45분 화상 통화로 일정을 검토하고 일본에 관한 모든 질문에 답변드립니다."
+  },
+  "testimonials": {
+    "title": "고객 후기"
+  },
+  "finalCta": {
+    "title": "막막한 일본 여행, 이제 보장된 여행으로 시작할 준비되셨나요?",
+    "subtitle": "성수기에는 자리가 빨리 찹니다. 일찍 예약하세요.",
+    "button": "지금 예약 →"
+  },
+  "footer": {
+    "tagline": "일본 현지 공인 여행사.\n당신의 일본 여행, 보장됩니다.",
+    "navigation": "메뉴",
+    "follow": "팔로우하기",
+    "copyright": "© 2025 Japan Quest. 모든 권리 보유.",
+    "privacy": "개인정보처리방침",
+    "terms": "서비스 이용약관"
+  }
+}
