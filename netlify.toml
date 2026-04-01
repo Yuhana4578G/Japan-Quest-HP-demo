@@ -1,0 +1,7 @@
+[build]
+  base = "japan-quest"
+  command = "npm run build"
+  publish = "japan-quest/.next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
